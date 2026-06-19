@@ -16,8 +16,8 @@ The model is trained on the **German Credit Dataset** (fetched dynamically via O
 
 ## 🚀 How to Run
 This project is designed to run seamlessly in a Jupyter/Colab environment.
-1. Open the `credit_scoring_pipeline.ipynb` notebook.
-2. Run the cells sequentially. The script will automatically fetch the data, preprocess it, train the model, and output the performance metrics (Precision, Recall, F1-Score, ROC-AUC).
+1. Open the `Credit_Scoring_Pipeline.ipynb` notebook.
+2. Run the cell. The script will automatically fetch the data, preprocess it, train the model, and output the performance metrics (Precision, Recall, F1-Score, ROC-AUC).
 
 ---
 *Developed by Muhammad Zeeshan | AI/ML Engineer*
